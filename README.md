@@ -4,6 +4,10 @@ $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$
 
+$$
+\frac{a}{b} = c \cdot \int^{100}_{-\infty} x dx
+$$
+
 
 <!--
 **ImScientist/ImScientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
