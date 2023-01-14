@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+$$
+
+
 <!--
 **ImScientist/ImScientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
