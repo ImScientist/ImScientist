@@ -9,6 +9,7 @@
 - PyTorch
   - [NLU with Bert](https://github.com/ImScientist/NLU)
   - [Image segmentation](https://github.com/ImScientist/Object-detection-and-classification)
+  - [Time series forecasting with RNN](https://github.com/ImScientist/Time-series-prediction-rnn)
 - [imscientist.dev](https://imscientist.dev/)
   - Geospatial visualisation: [blog](https://ex01.imscientist.dev/)
   - Navigation through a dynamic map using the Bellman equation: [source code](https://github.com/ImScientist/Towards-RL) | [blog](https://imscientist.dev/post/1)
