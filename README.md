@@ -8,6 +8,7 @@
   - [Probabilistic prediction of travel times](https://github.com/ImScientist/probabilistic-forecasting-travel-time)
   - [I love tensorflow probability](https://github.com/ImScientist/ilovetfp)
 - PyTorch
+  - [Fine-tune LLaMA](https://github.com/ImScientist/llama-finetune-bg)
   - [NLU with Bert](https://github.com/ImScientist/NLU)
   - [Image segmentation](https://github.com/ImScientist/Object-detection-and-classification)
   - [Time series forecasting with RNN](https://github.com/ImScientist/Time-series-prediction-rnn)
