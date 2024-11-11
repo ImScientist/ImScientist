@@ -14,11 +14,11 @@
   - [Time series forecasting with RNN](https://github.com/ImScientist/Time-series-prediction-rnn)
 - Other
   - Navigation through a dynamic map using the Bellman equation: [source code](https://github.com/ImScientist/Towards-RL) | [blog](https://imscientist.dev/posts/bellmann_eq/)
-  - Ad auction bidding strategy: [source code](https://github.com/ImScientist/auction-bidding-strategy) | [blog](https://imscientist.dev/posts/ad_auction_bidding_strategy/)
+  - Ad auction bidding strategy: [source code](https://github.com/ImScientist/auction-bidding-strategy) | [blog](https://imscientist.dev/posts/ad_auction_bidding_strategy/) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zTOFtF0H6-n2HPw3FiC3kFpvsr44aFJc?usp=sharing)
   - Track the model performance metrics in Federated training: [plotly app](https://github.com/ImScientist/plotly-web-app) | [blog](https://imscientist.dev/posts/federated_training/)
   - Variational inference in probabilistic models: an analytically solvable example: [gist](https://gist.github.com/ImScientist/88091389e0c91669187bb77ff5a3845b) | [blog](https://imscientist.dev/posts/variational_inference/)
-  - Bayesian inference for stochastic processes: an analytically solvable problem: [gist](https://gist.github.com/ImScientist/4807b46a4f796220d102798216a2d7be) | [blog](https://imscientist.dev/posts/stochastic_processes/)
-  - Efficient Likelihood Function Reparametrization for Regression against Categorical Variables: [source code](https://github.com/ImScientist/ilovetfp) | [blog](https://imscientist.dev/posts/regression_categorical/)
+  - Bayesian inference for stochastic processes: an analytically solvable problem: [gist](https://gist.github.com/ImScientist/4807b46a4f796220d102798216a2d7be) | [blog](https://imscientist.dev/posts/stochastic_processes/) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UYKfdcOAzLXVgyPSqsKqpzDhclpog-BF?usp=sharing)
+  - Efficient Likelihood Function Reparametrization for Regression against Categorical Variables: [source code](https://github.com/ImScientist/ilovetfp) | [blog](https://imscientist.dev/posts/regression_categorical/) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11c8W9Sy3GleRkK7d6xs081Tv3tnYafhf?usp=sharing)
 
 <!--
 **ImScientist/ImScientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
