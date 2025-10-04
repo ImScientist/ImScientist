@@ -2,7 +2,7 @@
 
 - Kubernetes
   - [Tensorflow serving and monitoring with Grafana and Prometheus](https://github.com/ImScientist/tensorflow-serving)
-  - [MLfow](https://github.com/ImScientist/mlflow)
+  - [MLfow deployment](https://github.com/ImScientist/mlflow)
   - [LLM agents](https://github.com/ImScientist/agents)
 - Tensorflow
   - [Image segmentation](https://github.com/ImScientist/Object-detection-and-classification-tf)
