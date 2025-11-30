@@ -6,13 +6,15 @@
   - [LLM agents](https://github.com/ImScientist/agents)
 - Tensorflow
   - [Image segmentation](https://github.com/ImScientist/Object-detection-and-classification-tf)
-  - [Probabilistic prediction of travel times](https://github.com/ImScientist/probabilistic-forecasting-travel-time)
+  - [Probabilistic prediction of trip travel times](https://github.com/ImScientist/probabilistic-forecasting-travel-time)
   - [I love tensorflow probability](https://github.com/ImScientist/ilovetfp)
 - PyTorch
   - [Fine-tune LLaMA](https://github.com/ImScientist/llama-finetune-bg)
   - [NLU with Bert](https://github.com/ImScientist/NLU)
   - [Image segmentation](https://github.com/ImScientist/Object-detection-and-classification)
   - [Time series forecasting with RNN](https://github.com/ImScientist/Time-series-prediction-rnn)
+- LightGBM:
+  - [Probabilistic prediction of trip travel times with LighGBM + Dask](https://github.com/ImScientist/probabilistic-forecasting-travel-time-lightgbm)
 - Other
   - Navigation through a dynamic map using the Bellman equation: [source code](https://github.com/ImScientist/Towards-RL) | [blog](https://imscientist.dev/posts/bellmann_eq/)
   - Ad auction bidding strategy: [source code](https://github.com/ImScientist/auction-bidding-strategy) | [blog](https://imscientist.dev/posts/ad_auction_bidding_strategy/) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zTOFtF0H6-n2HPw3FiC3kFpvsr44aFJc?usp=sharing)
